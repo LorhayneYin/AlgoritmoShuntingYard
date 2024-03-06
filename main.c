@@ -112,7 +112,6 @@ double calcular(double num1, double num2, char operacao) {
     }
 }
 
-
 int main() {
     char exp[100] = "";
     char vec[100][20] = {'\0'};

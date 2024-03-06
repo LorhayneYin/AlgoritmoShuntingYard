@@ -1,6 +1,6 @@
 
 //
-// Created by Usuario on 01/03/2024.
+// Created by Lorhayne on 01/03/2024.
 //
 #include <stdbool.h>
 #include <stdlib.h>

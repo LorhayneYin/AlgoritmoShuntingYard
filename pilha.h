@@ -1,5 +1,5 @@
 //
-// Created by Usuario on 01/03/2024.
+// Created by Lorhayne on 01/03/2024.
 //
 
 #ifndef ALGORITMOSHUNTINGYARD_PILHA_H
